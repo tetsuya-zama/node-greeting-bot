@@ -1,0 +1,10 @@
+{
+    "nodeGreeting": {
+        "lambda": {
+            "message": {
+                "type": "text",
+                "text": "おはよう"
+            }
+        }
+    }
+}
